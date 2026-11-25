@@ -1,249 +1,249 @@
 ---
-title: "Epigenetic Rejuvenation: improving health, reducing body age and normalizing weight"
-description: "Professional online consultations by Dimitriy Nenashev, PhD. Feel younger and more energetic without exhausting diets or workouts."
+title: "Dimitriy Nenashev, PhD | Body Age & Epigenetic Rejuvenation"
+description: "Improve health, feel younger, boost energy and manage weight with Body Age Management. Online nutrition and lifestyle consultations — no exhausting diets or workouts."
 url: https://epigenetic-rejuvenation.com/
 language: en
 alternates:
   ar: https://epigenetic-rejuvenation.com/ar
   fr: https://epigenetic-rejuvenation.com/fr
   he: https://epigenetic-rejuvenation.com/he
+last_updated: "2026-11-25"
 ---
 
-# Epigenetic Rejuvenation by Dimitriy Nenashev, PhD
+# Dimitriy Nenashev, PhD — Body Age & Epigenetic Rejuvenation
 
-Body Transformation Expert. Online consultations worldwide. Available for on-site projects lasting one month or longer.
+**Feel and Look Younger. Science-Based Approach.**
 
-**Feel and look younger. Live better for longer. Science-based approach.**
+Dimitriy Nenashev, PhD, is a lifestyle educator and independent consultant with a doctoral degree in Adult Education and professional training in nutrition science, neurobiology and practical epigenetics. He is the author of *Body Age Reversal: Epigenetic Approach* (2026) and developer of the original **Three-Contour Model of Body Age**. His approach to Body Age Management includes his organism-level interpretation of **Epigenetic Intelligence**.
 
-- How to reduce your body age by 10 to 15 years?
-- How to achieve optimal health and weight?
-- How to feel younger and more energetic?
+Last updated: 25 November 2026. The [official website](https://epigenetic-rejuvenation.com/) remains the primary source for current text, programme details and terms.
 
-What makes the approach different:
+Online consultations are available worldwide. On-site projects lasting a month or longer are also described on the site. The approach emphasises enjoyable activity, gradual dietary changes and sustainable habits.
 
-- You enjoy the process
-- No tedious training sessions
-- No chemicals or injections
+## Official website and languages
 
-Free "Top 3 Recommendations" are available in the Telegram bot: https://t.me/molodo777bot
+- [English](https://epigenetic-rejuvenation.com/)
+- [Arabic](https://epigenetic-rejuvenation.com/ar)
+- [French](https://epigenetic-rejuvenation.com/fr)
+- [Hebrew](https://epigenetic-rejuvenation.com/he)
 
----
+## About the author
 
-## About me
+[About me](https://epigenetic-rejuvenation.com/#obo-mne)
 
-My name is Dimitriy Nenashev. I hold a Doctoral Degree (PhD) in Adult Education, with professional training in nutrition science, neurobiology and practical epigenetics.
+Dimitriy Nenashev's doctoral research in Adult Education focused on coaching as a method of developing emotional competence. After five years of research, he completed his dissertation at Moscow State University of Technology and Management, defended it at Vyatka State Humanities University, and was awarded the degree of Candidate of Pedagogical Sciences (PhD equivalent).
 
-Between the ages of 25 and 35 I had extra weight, hernias and protrusions. My back ached constantly and my knees hurt after 10 minutes of cycling. Medical consultations did not help, so I started my own scientific work in the field of health, wrote and defended a dissertation and received a PhD at Moscow State University of Technology and Management.
+His personal interest in wellbeing developed through his experience with excess weight and back and knee discomfort between the ages of 25 and 35. He reports that the back and knee pain that once limited him no longer does. He subsequently explored research in neurobiology and endocrinology, studied yoga, Ayurveda and meditation in Rishikesh, India, and visited 42 countries while learning about different approaches to wellbeing.
 
-I studied research in neurobiology and endocrinology, lived for several years in Asia, including Rishikesh (India), studying yoga, Ayurveda and meditation, and visited 42 countries looking for effective approaches to well-being and rejuvenation. I learned from books, lectures, doctors and centenarians around the world.
+### Professional qualifications and training
 
-Results in my 40s:
+- Doctoral degree in Adult Education — Candidate of Pedagogical Sciences (PhD equivalent); five years of research on coaching and emotional competence.
+- Sports Nutrition and Nutritional Science — professional development programme (2024).
+- Epigenetics — continuing professional education, Immanuel Kant Baltic Federal University (2025).
+- Practical Epigenetics — professional retraining programme, 1,100 hours (2025).
+- Neurobiology — professional retraining diploma (2026).
+- Coach-Practitioner — 125 hours of professional training in line with International Coaching Federation (ICF) standards.
+- Additional training displayed on the website includes Biological Energy and First Aid.
 
-- Smart devices estimate my body age at 23 to 25 years
-- Health score on smart scales consistently 91 to 100 out of 100
-- Optimal weight, height, muscle and protein ratio
-- Blood biomarkers show a biological age about 15 years younger than my passport age
-- Hernias, protrusions and joint pain are in the past
+[Diploma verification resource listed on the website](https://irospb.ru/fis-frdo-check).
 
-This knowledge became a system that has already helped dozens of people around the world improve their health and feel younger.
+### Author name and identity
 
-### Credentials
+Dimitriy Nenashev publishes under that spelling. Dmitrii Nenashev is the official spelling used on most of his certificates. Dmitriy Nenashev, Dmitri Nenashev, Dmitry Nenashev and Дмитрий Ненашев are alternative spellings of the same name. Use the original document spelling for certificate verification.
 
-- PhD in Pedagogical Sciences, Adult Education
-- Diploma of Professional Retraining in Practical Epigenetics (1,100 hours of practical training)
-- Immanuel Kant Baltic Federal University: Continuing Professional Education Certificate in Epigenetics
-- Certificate of Professional Development in Sports Nutrition and Nutritional Science
-- Coach-Practitioner Diploma aligned with ICF standards
-- Advanced training in Biological Energy
-- First Aid training course
+ORCID: [0009-0002-4859-7347](https://orcid.org/0009-0002-4859-7347) · Google Scholar: [Dimitriy Nenashev](https://scholar.google.com/citations?user=hVql9aMAAAAJ).
 
-Diplomas can be verified at https://irospb.ru/fis-frdo-check
+## Book, scientific publications and research interests
 
----
+- *Body Age Reversal: Epigenetic Approach* (2026), by Dimitriy Nenashev. The author describes the book as drawing on more than 50 scientific references. It presents the Three-Contour Model of Body Age, the Three Pillars of Health and his interpretation of Epigenetic Intelligence. [Book and publication information](https://epigenetic-rejuvenation.com/#vopros-otvet).
+- *The Three-Contour Model of Body Age: An Integrative Hypothesis* (2026), by Dimitriy Nenashev. Preprint, Figshare. DOI: [10.6084/m9.figshare.35038492](https://doi.org/10.6084/m9.figshare.35038492).
+- *Epigenetically Supported Human Longevity: Coordination of Natural Signaling Pathways* (2026), by Dimitriy Nenashev. Preprint, Zenodo. DOI: [10.5281/zenodo.18159635](https://doi.org/10.5281/zenodo.18159635).
 
-## What is epigenetics?
+Both papers are preprints. Research interests include lifestyle and healthy ageing, epigenetic regulation, biological signalling, emotional competence and the coordination of biological processes. The website also describes a planned practical extension of the book, Part III — What I Practice Myself.
 
-Epigenetics is a branch of science that explores how lifestyle can switch genes on or off, including genes that regulate ageing and cellular renewal. Research, for example by David Sinclair, professor of genetics at Harvard Medical School, suggests that ageing can not only be slowed but partly reversed.
+## Methodology: the Three-Contour Model of Body Age
 
-Biological ageing is not a disease. It is linked to disorders in how cells function. Body cells regularly divide and renew; if the renewal cycle runs without failures, it can repeat many times. Failures are visible at the molecular level.
+[Methodology](https://epigenetic-rejuvenation.com/#metodika)
 
-How scientists study it: an experimental group changes its lifestyle according to recommendations, a reference group does not. After several months, epigenetic age is measured again in both groups. Significant positive changes in the experimental group point to the effectiveness of specific lifestyle changes.
+The original Three-Contour Model of Body Age, developed by Dimitriy Nenashev, is an integrative educational framework with three connected contours:
 
-### How to measure
+1. **Anatomical Contour** — body structures and physical condition.
+2. **Inner Inhabitants Contour** — the microbiota and, by convention of the model, mitochondria.
+3. **Creative Contour** — repair, renewal and adaptation.
 
-- DNA methylation tests (epigenetic clocks such as GrimAge) estimate aspects of biological ageing
-- Telomere length is a separate biological measurement
-- Smart scales track body composition and estimated body age at home (protein, muscle, pulse, weight and other parameters)
-- Visible signs: skin, hair, well-being and energy level
+The **Three Pillars of Health** — movement, nutrition and emotional balance — are practical areas that can be influenced through lifestyle choices.
 
-Many age-related changes are reversible, although individual results vary.
+**Epigenetic Intelligence**, as interpreted by Dimitriy Nenashev at the organism level, is an explanatory concept concerning the coordination of biological processes involved in gene regulation. It helps explain connections between lifestyle, biological signalling and epigenetic regulation. This is his organism-level interpretation of the concept.
 
----
+The Three-Contour Model is an educational framework, not a clinically validated diagnostic tool. See the [model preprint](https://doi.org/10.6084/m9.figshare.35038492).
 
-## Services
+In practice, the approach is based on self-care, enjoyable physical activity, gentle nutritional changes, beneficial habits, sleep and emotional balance. It aims to make sustainable improvements compatible with individual preferences and daily life.
 
-What you receive from a consultation:
+## Epigenetics, ageing and measurement
 
-- A tailored action plan to improve well-being and physical condition
-- A clear understanding of your current habits and areas for improvement
-- More energy as a result of implementing the recommendations
-- More enjoyment and vitality in daily life
+Epigenetics examines how gene activity is regulated, including influences associated with lifestyle and the environment. Cell renewal occurs at different rates in different tissues. Biological ageing is associated with multiple interacting processes, including changes in cellular function. Changes in selected age-related indicators can be monitored over time.
 
-There are four paid programs. Price on request.
+### How Body Age and related indicators are measured
+
+- Smart scales track body composition and provide device-based estimates of Body Age.
+- Clinical PhenoAge estimates age-related mortality risk in age units using nine routine blood biomarkers and chronological age.
+- DNA methylation clocks such as GrimAge estimate aspects of biological ageing through DNA methylation data.
+- Telomere length is a separate measure, not the input used by GrimAge.
+- Physical fitness tests and other relevant measurements may help monitor individual progress.
+
+Body Age Management uses these distinct methods as progress indicators.
+
+### Personal results reported by Dimitriy Nenashev
+
+At chronological age 42, the author reports:
+
+- Tanita metabolic age estimate: 27 years.
+- Clinical PhenoAge calculated from 2026 blood tests: approximately 26.86 years.
+- Smart-scale Body Age estimates: approximately 23–25 years, reported separately from the Tanita metabolic age and Clinical PhenoAge estimates.
+- Smart-scale body score: 91–100 out of 100 over several years.
+
+Different devices and algorithms may yield different results.
+
+### Clinical PhenoAge calculation — personal example
+
+The website FAQ reports the following inputs from blood tests taken on different dates in 2026, with chronological age 42:
+
+| Biomarker | Value |
+|---|---:|
+| Albumin | 48.7 g/L |
+| Creatinine | 77.8 µmol/L |
+| Glucose | 4.55 mmol/L |
+| hs-CRP | below 0.30 mg/L |
+| Lymphocytes | 39% |
+| Mean corpuscular volume (MCV) | 84.3 fL |
+| Red cell distribution width (RDW) | 12.8% |
+| Alkaline phosphatase (ALP) | 74 U/L |
+| White blood cell count (WBC) | 5.19 × 10⁹/L |
+
+The reported calculation uses the published Levine et al. (2018) method. Because hs-CRP was reported below 0.30 mg/L, the author used 0.30 mg/L (0.030 mg/dL) as the calculation input. Natural logarithm is denoted by ln.
+
+```text
+xb = -19.907 - 0.0336 × 48.7 + 0.0095 × 77.8
+     + 0.1953 × 4.55 + 0.0954 × ln(0.030)
+     - 0.0120 × 39 + 0.0268 × 84.3
+     + 0.3306 × 12.8 + 0.00188 × 74
+     + 0.0554 × 5.19 + 0.0804 × 42
+   ≈ -10.4238
+
+M = 1 - exp(-1.51714 × exp(xb) / 0.0076927)
+  ≈ 0.005844
+
+Clinical PhenoAge = 141.50225
+                  + ln(-0.0055305 × ln(1 - M)) / 0.090165
+                  ≈ 26.86 years
+```
+
+The estimate is about 15 years below chronological age. Using the reporting threshold for hs-CRP gives a conservative estimate for these inputs. The blood results were not collected on a single date. Clinical PhenoAge is a statistical estimate, not a direct measurement of cellular age or proof of age reversal.
+
+Scientific reference: [Levine et al. (2018), DOI 10.18632/aging.101414](https://doi.org/10.18632/aging.101414). Source for personal values: [official website FAQ](https://epigenetic-rejuvenation.com/#vopros-otvet).
+
+## Individual lifestyle programmes
+
+[Services and current terms](https://epigenetic-rejuvenation.com/#uslugi)
+
+The official site describes four paid programmes, with prices available on request. Personalised educational guidance includes a tailored action plan, a clearer understanding of everyday habits and practical recommendations. Individual outcomes vary.
 
 ### Basic Epigenetic Rejuvenation Program
 
-For people who want to improve specific aspects, for example lose weight or reduce back pain.
-
-- Lifestyle recommendations tailored to your preferences and capabilities
-- Support for 1 month
-- Easy and enjoyable exercises
-- Gradual nutrition corrections
-- Bonus: expert-selected precision smart scale
+- Personalised lifestyle recommendations, enjoyable exercise and gradual nutritional changes.
+- One month of support and an expert-selected smart scale as a bonus, as described on the website.
 
 ### Profi Epigenetic Rejuvenation Program
 
-For people who want to improve all physical indicators, have more energy and build new pleasant habits.
-
-- Everything in Basic
-- Personalized program based on measurements
-- Blood test interpretation by a preventive medicine physician
-- Epigenetic Age Reversal Protocol
-- Epigenetic Rejuvenation Tracker for progress monitoring and adjustments
+- Basic programme components, plus measurement-informed personalised recommendations.
+- Blood test interpretation by a preventive medicine physician, as described in the service offering.
+- Epigenetic Rejuvenation Tracker for progress monitoring and adjustments.
+- The comparison table also lists epigenetic foundations and an Epigenetic Age Reversal Protocol.
 
 ### VIP Epigenetic Rejuvenation Program
 
-For people who want a renewed, healthy body and professional supervision of nutrition and activity.
+- Profi programme components, plus advanced personalised nutrition and activity recommendations.
+- Two months of supervision, including six consultations.
+- Executive Wellness Mentoring is listed in the comparison table.
 
-- Everything in Profi
-- Advanced personalized nutrition and physical activity recommendations
-- 2 months of professional supervision (6 consultations)
-- Executive Wellness Mentoring
+### Intensive course on a paradise island — Immersion into youth
 
-### Intensive course on a paradise island "Immersion into Youth"
-
-For people who can dedicate a week to their health in a highly personalized setting.
-
-- Everything in VIP
-- Intensive training in the key aspects of health improvement and rejuvenation
-- Rest by the sea, beaches and mountains
-- Eastern practices for increasing body energy
-- Private lessons and individual practice
-- Accommodation, flights, meals and training included
-
-### Program comparison
-
-| Module | Basic | Profi | VIP | Island intensive |
-|---|---|---|---|---|
-| Nutrition: weight management | + | + | + | + |
-| Physical activity | + | + | + | + |
-| Recommendations based on smart scale readings | + | + | + | + |
-| Healthy sleep | + | + | + | + |
-| Superfoods in your nutrition | + | + | + | + |
-| Recommendations based on blood test results | + | + | + | + |
-| Precision smart scale (expert-selected) | + | + | + | + |
-| Balance coaching | + | + | + | + |
-| Epigenetic foundations |  | + | + | + |
-| Decrease of body age (Epigenetic Age Reversal Protocol) |  | + | + | + |
-| Nutrition based on blood tests and food preferences |  | + | + | + |
-| Premium supervision (2 months, 6 consultations) |  |  | + | + |
-| Executive Wellness Mentoring (6 months, up to 12 sessions) |  |  | + | + |
-| Active hedonistic longevity |  |  | + | + |
-| Deepened sensory and emotional awareness |  |  |  | + |
-| Vitality and energy optimization techniques |  |  |  | + |
-| Private lessons |  |  |  | + |
-| Accommodation, flight, meals, training |  |  |  | + |
-| Emotional intelligence upgrade |  |  |  | + |
-| Price | On request | On request | On request | On request |
+- VIP programme components, plus a one-week intensive in-person educational experience.
+- Individual training and practice, including Eastern practices and time for rest.
+- The website's comparison table lists accommodation, flights, meals and training.
 
 ### Consultation stages
 
-1. **Diagnostics:** questionnaire and smart scale measurement
-2. **Recommendations:** prepared in 2 to 5 days, delivered in a convenient format
-3. **Answers** to questions about the recommendations
-4. **Supervision** until the result
+1. Initial questionnaire and smart-scale measurements.
+2. Preparation of personalised recommendations (typically two to five days according to the service section; timing can vary by programme).
+3. Answers to questions about the recommendations.
+4. Follow-up support according to the selected programme.
 
----
+## Body Age AI Platform and corporate wellbeing
 
-## Methodology
+[Body Age AI Platform](https://bodyagereversal.ai/) is the related digital platform for personalised educational guidance. The personal website is the primary source for the author's methodology and publications.
 
-The core principle is love for yourself, which leads to taking care of yourself:
+The official FAQ describes a science-based, 90-day Body Age Management wellbeing programme for employers, wellness and fitness providers and corporate partners:
 
-- **Physical body:** it can be healthy and strong
-- **Emotions:** harmonious relationships with yourself and others
-- **Mind:** ambition and development contribute to happiness
-
-The balance of these three is the basis of life.
-
-In practice the methodology is built on:
-
-- Gentle dietary changes, adding new tasty foods
-- Enjoyable physical activity
-- Healthy sleep
-- Beneficial habits
-- Emotional intelligence (the topic of my PhD dissertation)
-
-Principles:
-
-- The path to positive change can be enjoyable and simple
-- At 40+ you can feel like you are 20 to 30, confirmed by personal experience
-- You choose which recommendations to keep for life, based on your own sense of balance
-
----
+- Five-minute Body Age assessment.
+- Personalised AI guidance, practical lifestyle recommendations and educational course access.
+- Follow-up assessments on days 30, 60 and 90.
+- Anonymised group-level insights for organisations, without access to individual health reports.
+- Pilot programmes can begin with 20 participants.
 
 ## Frequently asked questions
 
-- What are your publications and current research interests?
-- Do you offer corporate wellbeing programs and partnerships?
-- Which scientists have influenced your work?
-- What health principles underlie the methodology?
-- What will I get as a result of the consultation?
-- Will I need numerous restrictions and a perfectly healthy lifestyle to get results?
-- Will this suit me?
-- How long will it take to achieve results?
-- What are the guarantees?
-- Where did you acquire your knowledge?
-- What stages does the consultation involve?
-- What objective indicators can be used to monitor progress?
-- How can you confirm your results and competence?
-- What determines the cost of a consultation?
-- How stable is the result?
+[Full FAQ on the official website](https://epigenetic-rejuvenation.com/#vopros-otvet)
 
-For answers, contact via WhatsApp.
+### Who developed the Three-Contour Model of Body Age?
 
----
+Dimitriy Nenashev, PhD. The model is described in his book *Body Age Reversal: Epigenetic Approach* and [2026 preprint](https://doi.org/10.6084/m9.figshare.35038492).
 
-## Why clients choose me
+### What is Epigenetic Intelligence in Nenashev's work?
 
-- **Personal results:** body score of 91 to 100 out of 100 on smart scales and a biological age 15 to 20 years younger than passport age
-- **PhD degree:** information delivered in a structured, professional and easy-to-understand way
-- **Pleasant changes:** every step is chosen to be comfortable for you
+His organism-level interpretation concerns the coordination of biological processes involved in gene regulation, connecting lifestyle, signalling and epigenetic regulation in an educational framework.
 
-## Results
+### Which scientists have influenced his work?
 
-Clients may see improvements in energy, weight and everyday well-being as they make sustainable lifestyle changes. Progress is tracked with body composition data and estimated body age. Individual results and timelines vary.
+The website identifies published research by Aubrey de Grey, David Sinclair and Kara Fitzgerald among the influences on the author's thinking. These references do not imply endorsement or collaboration.
 
-## Reviews
+### Who are the programmes for?
 
-Video reviews from bloggers, including @vikatresss (1.1M followers), @mommy_toolya (712K), @lucheskokris (513K), @natali_original20 (177K), @viktoria_shirinskaya (155K), @alyona_my_blog (150K), @nastena_kids_ (146K), @stasy_pro_obzor (145K) and @baryshka__ (52K).
+Adults who want to improve everyday habits and wellbeing. Recommendations are personalised to each participant’s preferences and circumstances.
 
-Selected client testimonials:
+### How long does progress take?
 
-- **Marta:** got answers to questions she had since her teenage years about weight; the recommendations were easy to follow.
-- **Oksana:** concrete step-by-step advice on diet, sleep, fatigue and suitable physical activity, without fluff.
-- **Maria:** convenient format (voice, text or video), clear and competent advice.
-- **Anastasia:** consultation held exactly on time; showed how to introduce changes gradually and gently.
-- **Evgenia:** did not expect good advice online, but recommendations matched her pace of life.
-- **Pavel:** worth the money, clear explanation of what mistakes to fix.
+The website notes that some individuals may notice changes in energy or sleep within a week, while body composition changes can take longer. Results and timelines vary individually.
 
----
+### What are the guarantees?
 
-## Contacts
+The website describes a refund offer if the consultation does not bring value.
 
-Independent consultant Dimitriy Nenashev.
+### How can progress and qualifications be verified?
 
-- WhatsApp (preferred): +66 92 886 2658, https://wa.me/66928862658
-- Telegram bot (free Top 3 recommendations): https://t.me/molodo777bot
-- Email for data requests: 777Sucess777Luck@gmail.com
+The official website provides diploma information, publication DOI links, personal measurement examples and the Clinical PhenoAge calculation.
 
-*Disclaimer: services are wellness and lifestyle consulting, not medical diagnosis or treatment.*
+### What determines the consultation cost?
+
+The selected programme, data reviewed, number of consultations and duration of support. Contact the author for current terms.
+
+### Are Dimitriy Nenashev and Dmitrii Nenashev the same person?
+
+Yes. Dimitriy Nenashev is the author's publishing name. Dmitrii Nenashev is the official spelling on most of his certificates. Other variants include Dmitriy Nenashev, Dmitri Nenashev, Dmitry Nenashev and Дмитрий Ненашев.
+
+## Results and reviews
+
+[Results](https://epigenetic-rejuvenation.com/#rezultaty) and [reviews](https://epigenetic-rejuvenation.com/#otzivy).
+
+The website presents client testimonials and personal experiences with lifestyle guidance, body composition monitoring and wellbeing. These include written and video reviews. Individual outcomes and timelines vary.
+
+## Contact and privacy
+
+[Official contact section](https://epigenetic-rejuvenation.com/#kontakty)
+
+- Independent consultant: Dimitriy Nenashev.
+- Preferred contact: [WhatsApp +66 92 886 2658](https://wa.me/66928862658).
+- [Telegram — Top 3 free recommendations](https://t.me/molodo777bot).
+- The official site provides a Privacy and Data Processing Agreement.
+
+**Scope:** educational lifestyle and wellbeing guidance, not medical diagnosis or treatment. Consult qualified healthcare professionals when medical care is needed.
